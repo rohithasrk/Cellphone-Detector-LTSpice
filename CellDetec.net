@@ -19,7 +19,7 @@ V2 N011 N006 2
 D5 N010 N006 D
 .model D D
 .lib Z:\home\rohith\Documents\LTSpiceIV\lib\cmp\standard.dio
-.ac dec 1000 0.5G 3.5G
+.ac lin 1000 0.5G 3.5G
 .lib opamp.sub
 .backanno
 .end
